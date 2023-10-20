@@ -1,4 +1,3 @@
-# Retail_clustering
 # Retail Rationalization Business Clustering
 
 **Overview:**
